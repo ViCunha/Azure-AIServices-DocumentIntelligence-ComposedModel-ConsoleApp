@@ -178,10 +178,11 @@ In the Training in progress dialog, select Go to Models
 
 - The training process can take a few minutes. Refresh the browser occasionally until both models display the succeeded status.
 
----
+- Create and assemble a composed model
+  
+- In the Azure AI Document Intelligence Models page, select both 1040FormsModel and 1099FormsModel.
 
-Create and assemble a composed model
-In the Azure AI Document Intelligence Models page, select both 1040FormsModel and 1099FormsModel.
+---
 
 [ Create a Custom Classification Model ]
 
